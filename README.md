@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @derikmuthee
-- 👀 I’m interested in blockchain technology ethrereum technology
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on various projects that willdrive us to a better future
-- 📫 How to reach me twitter handle @derrickk_m
+Hello, I am @derikmuthee
+I code using Php CodeIgniter 4 Framework,Tailwind CSS and Mysql.
+I also use javascript for scripting purposes on my projects.
+I’m currently coding my tech company website.
+I’m looking forward to collaboration on various projects from clients and coders to make our lives better.
+Reach me on my twitter handle @derrickk_m
 
 <!---
 derikmuthee/derikmuthee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
